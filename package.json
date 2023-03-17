@@ -1,9 +1,8 @@
 {
-  "name": "asdevelopment",
+  "name": "as-development",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://TOUFIK-Taha98.github.io/asdevelopment",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -16,8 +16,14 @@ AS-service est une entreprise de transport spécialisée dans le transport de va
 
 ```bash
 # Cloner le projet
-git clone https://github.com/AS-Service23/wt-dev.git
+git clone https://github.com/AS-Service23/as-development.git
 
 # Installer les dépendances
-cd wt-dev
+cd as-development
 npm install
+```
+
+## Deploiement
+```bash
+...
+```
