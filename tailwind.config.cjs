@@ -4,6 +4,5 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  darkMode: "class",
-  base: '/as-development/'
+  darkMode: "class"
 };
